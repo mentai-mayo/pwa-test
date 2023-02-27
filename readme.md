@@ -2,6 +2,8 @@
 
 PWA(Progressive Web Apps)のテスト
 
+デプロイ先(github.io): [mentai-mayo/pwa-test](https://mentai-mayo.github.io/pwa-test/)
+
 ## ディレクトリ構成
 
 ```
