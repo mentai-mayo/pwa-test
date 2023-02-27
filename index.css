@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  padding: 10px;
+}
+
+div.image {
+  display: grid;
+  width: calc((100vw - 20px) * 0.95);
+  text-align: center;
+}
+div.image > img {
+  max-width: 100%;
+  margin: 0 auto;
+}
