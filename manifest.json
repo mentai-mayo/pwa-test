@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "mentai-mayo/ProgressiveWebApps-test",
+  "short_name": "pwa-test",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "ProgressiveWebAppsのテスト用ページ",
+  "icons": [
+    { "src": "icon_256.png", "sizes": "256x256", "type": "image/png" }
+  ],
+  "scope": "/pwa-test/",
+  "theme_color": "#aaa"
+}
